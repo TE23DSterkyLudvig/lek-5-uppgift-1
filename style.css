@@ -9,7 +9,32 @@
 #blåruta{
     background-color: aqua;
     border: 5px solid black;
+    padding: 20px;
 }
-#gulruta{
-    
+#orangeruta{
+    border:5px solid orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#rödtext{
+background-color: red;
+padding-left: 210px;
+padding-right: 210px;
+padding-top: 40px;
+padding-bottom: 40px;
+border: 5px solid black;
+}
+#gultext{
+background-color: yellow;
+padding-left: 210px;
+padding-right: 210px;
+padding-top: 40px;
+padding-bottom: 40px;
+border: 5px solid black;
+}
+#gul_div{
+    border: 5px solid yellow;
 }
