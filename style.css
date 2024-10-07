@@ -1,0 +1,15 @@
+#rubrik{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 5px solid red;
+    background-color: whitesmoke;
+}
+#blåruta{
+    background-color: aqua;
+    border: 5px solid black;
+}
+#gulruta{
+    
+}
